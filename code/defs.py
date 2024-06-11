@@ -103,19 +103,9 @@ COIN_SHIFT = PIPE_MAX_Y + PIPE_GAP_MAX - COIN_CLEARANCE
 COIN_NORMALISER = COIN_SHIFT + DISPLAY_HEIGHT - PIPE_MIN_Y - COIN_CLEARANCE
 
 ### SELECTION AND MUTATION PARAMETERS ####
-mutation_array_mix_perc = 0.5
-MAX_MIXING_PERCENTAGE =mutation_array_mix_perc
 
-mutation_weight_modify_chance = 0.2
-MUTATION_RATIO = mutation_weight_modify_chance 
-
-
-mutation_cut_off = 0.4
-GOOD_PERCENTAGE = mutation_cut_off
-
-
-mutation_bad_to_keep = 0.2
-BAD_BUT_KEEP = mutation_bad_to_keep
-
-mutation_modify_chance_limit = 0.4
-MUTATION_CHANCE = mutation_modify_chance_limit
+MAX_MIXING_PERCENTAGE = 0.5
+MUTATION_RATIO =  0.2 
+GOOD_PERCENTAGE = 0.4
+BAD_BUT_KEEP = 0.2
+MUTATION_CHANCE = 0.4
