@@ -1,0 +1,21 @@
+sup nerds welcome to flappy bird 101 , the coolest game ever !!!!!
+
+you can select 2 modes.
+Manual mode where you can play the game yourself and
+AI mode where you can watch ai assert dominance and completely beat you in the game
+
+### Manual mode :
+press SPACE to make the bird fly upwards
+press ESC to pause the game for some reason
+(which seriously what do you have in your life that is more important than playing flappy bird ???)
+press ESC again to unpause the screen
+press QUIT to quit the entire game
+
+### AI mode :
+sit back and chill
+press F to pay respect to the superior AI and help in the AI takeover
+press QUIT to close the game
+press any key to return to the main menu
+
+
+
